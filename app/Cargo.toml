@@ -1,0 +1,12 @@
+[package]
+name = "app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+utilities = { path = "../utilities" }
+data_structures = { path = "../lib/data_structures" }
+graph = { path = "../lib/graph" }
+hashing = { path = "../lib/hashing" }
+sort = { path = "../lib/sort" }
+string_matching = { path = "../lib/string_matching" }
