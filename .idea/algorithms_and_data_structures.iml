@@ -9,6 +9,11 @@
       <sourceFolder url="file://$MODULE_DIR$/lib/sort/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lib/string_matching/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/utilities/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/backtracking/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/dynamic_programming/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/greedy_algorithms/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/search/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/string_algorithms/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

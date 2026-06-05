@@ -75,22 +75,22 @@ If you have any questions or suggestions regarding the code in this repository, 
 ## **[Learning Path (⚠️🚨🚨 Click here)](./docs/GUIDE.MD)**
 
 ### Overview 
-- Mathematical Foundations
-- Introduction to Algorithms
-- Divide and Conquer
-- Sorting and Order Statistics
-- Data Structures
-- Hashing
-- Greedy Algorithms
-- Dynamic Programming
-- Backtracking and Search
-- Probabilistic Analysis and Randomized Algorithms
-- Graph Algorithms
-- String Algorithms
-- Number-Theoretic Algorithms
-- Selected Topics from CLRS
-- NP-Completeness
-- Hardware-Aware Algorithms
+- [Mathematical Foundations](./docs/GUIDE.MD#1-mathematical-foundations)
+- [Introduction to Algorithms](./docs/GUIDE.MD#2-introduction-to-algorithms)
+- [Divide and Conquer](./docs/GUIDE.MD#3-divide-and-conquer)
+- [Sorting and Order Statistics](./docs/GUIDE.MD#4-sorting-and-order-statistics)
+- [Data Structures](./docs/GUIDE.MD#5-data-structures)
+- [Hashing](./docs/GUIDE.MD#6-hashing)
+- [Greedy Algorithms](./docs/GUIDE.MD#7-greedy-algorithms)
+- [Dynamic Programming](./docs/GUIDE.MD#8-dynamic-programming)
+- [Backtracking and Search](./docs/GUIDE.MD#9-backtracking-and-search)
+- [Probabilistic Analysis and Randomized Algorithms](./docs/GUIDE.MD#10-probabilistic-analysis-and-randomized-algorithms)
+- [Graph Algorithms](./docs/GUIDE.MD#11-graph-algorithms)
+- [String Algorithms](./docs/GUIDE.MD#12-string-algorithms)
+- [Number-Theoretic Algorithms](./docs/GUIDE.MD#13-number-theoretic-algorithms)
+- [ NP-Completeness](./docs/GUIDE.MD#14-np-completeness)
+- [Selected Advanced Topics](./docs/GUIDE.MD#15-selected-advanced-topics)
+- [Hardware-Aware Algorithms](./docs/GUIDE.MD#16-hardware-aware-algorithms)
 
 
 ## Run the Application
