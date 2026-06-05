@@ -1,19 +1,8 @@
 # Ensure consistent line endings
 * text=auto eol=lf
 
-# Rust source files
-*.rs text diff=rust
-
 # Cargo files
 Cargo.toml text
-Cargo.lock text merge=union
-
-# Build scripts
-build.rs text diff=rust
-
-# Documentation
-*.md text
-*.txt text
 
 # Ignore diffs for generated files
 *.lock -diff
