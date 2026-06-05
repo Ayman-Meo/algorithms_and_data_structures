@@ -5,7 +5,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 1. Mathematical Foundations
+## [1. Mathematical Foundations](./Mathematical%20Foundations/introduction.md)
 
 ### 1.1. Proof Techniques 
 
@@ -52,7 +52,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 2. Introduction to Algorithms
+## [2. Introduction to Algorithms](./Introduction%20to%20Algorithms/introduction.md)
 
 ### 2.1. What Algorithms Are?
 
@@ -98,7 +98,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 3. Divide and Conquer 
+## [3. Divide and Conquer](./Divide%20and%20Conquer/introduction.md) 
 
 > Divide and conquer is a powerful strategy for designing efficient
 > algorithms by splitting a problem into smaller subproblems, solving them recursively, and combining the results.
@@ -127,7 +127,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 4. Sorting and Order Statistics
+## [4. Sorting and Order Statistics](./Sorting%20and%20Order%20Statistics/introduction.md)
 
 > Sorting algorithms are a gateway to understanding algorithm design,
 > tradeoffs, and performance analysis.
@@ -164,7 +164,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 5. Data Structures
+## [5. Data Structures](./Data%20Structures/introduction.md)
 
 > Data structures organize information so programs can access, update, and process it efficiently.
 
@@ -237,7 +237,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 6. Hashing
+## [6. Hashing](./Hashing/introduction.md)
 
 > Hashing is important in programming, databases, storage systems, and security.
 
@@ -265,7 +265,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 7. Greedy Algorithms
+## [7. Greedy Algorithms](./Greedy%20Algorithms/introduction.md)
 
 > Greedy algorithms build a solution piece by piece by choosing the locally best option at each step. They are often fast and simple, but they require proof that local choices lead to a globally optimal solution.
 
@@ -291,7 +291,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 8. Dynamic Programming
+## [8. Dynamic Programming](./Dynamic%20Programming/introduction.md)
 
 ### 8.1. Core Ideas
 
@@ -321,7 +321,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 9. Backtracking and Search
+## [9. Backtracking and Search](./Backtracking%20and%20Search/introduction.md)
 
 ### 9.1. Core Ideas
 
@@ -340,7 +340,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 10. Probabilistic Analysis and Randomized Algorithms
+## [10. Probabilistic Analysis and Randomized Algorithms](./Probabilistic%20Analysis%20and%20Randomized%20Algorithms/introduction.md)
 
 > Probabilistic analysis studies algorithm behavior when randomness is involved, either in the input or inside the algorithm itself.
 
@@ -359,7 +359,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 11. Graph Algorithms
+## [11. Graph Algorithms](./Graph%20Algorithms/introduction.md)
 
 > Graph algorithms solve problems involving relationships, networks, dependencies, and paths.
 
@@ -434,7 +434,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 12. String Algorithms
+## [12. String Algorithms](./String%20Algorithms/introduction.md)
 
 ### 12.1. string Matching Basics
 
@@ -456,7 +456,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 13. Number-Theoretic Algorithms
+## [13. Number-Theoretic Algorithms](./Number-Theoretic%20Algorithms/introduction.md)
 
 ### 13.1. Core Algorithms
 
@@ -477,7 +477,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 14. NP-Completeness
+## [14. NP-Completeness](./NP-Completeness/introduction.md)
 
 ### 14.1. Complexity Classes
 
@@ -505,7 +505,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 15. Selected Advanced Topics
+## [15. Selected Advanced Topics](./Selected%20Advanced%20Topics/introduction.md)
 
 ### 15.1. Algorithmic Techniques
 
@@ -525,7 +525,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 16. Hardware-Aware Algorithms
+## [16. Hardware-Aware Algorithms](./Hardware-Aware%20Algorithms/introduction.md)
 
 > Hardware-aware algorithms consider memory, CPU behavior, and measurement tools when optimizing performance.
 
