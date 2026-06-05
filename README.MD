@@ -51,21 +51,7 @@ If you have any questions or suggestions regarding the code in this repository, 
 ├───docs/              # Markdown files for explanations and notices
 │   └───GUIDE.MD
 │
-├───lib/
-│   ├───data_structures/      # Data structures implementation
-│   │   └───Cargo.toml
-│   │           
-│   ├───graph/                # Graph algorithms implementation 
-│   │   └───Cargo.toml
-│   │           
-│   ├───hashing/              # Hashing algorithms implementation 
-│   │   └───Cargo.toml
-│   │           
-│   ├───sort/                 # Sorting algorithms implementation 
-│   │   └───Cargo.toml
-│   │           
-│   └───string_matching/      # String matching algorithms implementation 
-│       └───Cargo.toml
+├───lib/               # implementation of data structure and algorithms
 │           
 └───utilities/         # Logging, array comparisons, benchmarking helpers, etc.
     └───Cargo.toml
@@ -88,7 +74,7 @@ If you have any questions or suggestions regarding the code in this repository, 
 - [Graph Algorithms](./docs/GUIDE.MD#11-graph-algorithms)
 - [String Algorithms](./docs/GUIDE.MD#12-string-algorithms)
 - [Number-Theoretic Algorithms](./docs/GUIDE.MD#13-number-theoretic-algorithms)
-- [ NP-Completeness](./docs/GUIDE.MD#14-np-completeness)
+- [NP-Completeness](./docs/GUIDE.MD#14-np-completeness)
 - [Selected Advanced Topics](./docs/GUIDE.MD#15-selected-advanced-topics)
 - [Hardware-Aware Algorithms](./docs/GUIDE.MD#16-hardware-aware-algorithms)
 
