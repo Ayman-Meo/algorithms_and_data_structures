@@ -1,4 +1,31 @@
-* text=auto
+# Ensure consistent line endings
+* text=auto eol=lf
 
-*.rs text
-*.toml text
+# Rust source files
+*.rs text diff=rust
+
+# Cargo files
+Cargo.toml text
+Cargo.lock text merge=union
+
+# Build scripts
+build.rs text diff=rust
+
+# Documentation
+*.md text
+*.txt text
+
+# Ignore diffs for generated files
+*.lock -diff
+*.log -diff
+
+# Binary artifacts
+*.exe binary
+*.dll binary
+*.so  binary
+*.dylib binary
+*.a   binary
+*.lib binary
+
+# GitHub linguist overrides
+*.rs linguist-language=Rust

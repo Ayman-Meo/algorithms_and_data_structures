@@ -14,6 +14,9 @@ This repository contains a collection of Rust implementations of various algorit
 > or use arena-based allocation models instead of raw,
 > unmanaged pointers. Always focus on adapting the core mathematical concept rather than doing a line-by-line translation.
 
+## Tools
+- Rust Stable Toolchain V- 1.96.0+
+
 ## Resources
 - [The Rust Standard Library Documentation](https://doc.rust-lang.org/std/)
 - [All C++ Implementation](https://github.com/TheAlgorithms/C-Plus-Plus)
@@ -69,9 +72,9 @@ If you have any questions or suggestions regarding the code in this repository, 
 ```
 ---
 
-## [GUIDE And ROADMAP(⚠️🚨🚨 Click here)](./docs/GUIDE.MD)
+## **[Learning Path (⚠️🚨🚨 Click here)](./docs/GUIDE.MD)**
 
-### Overview
+### Overview 
 - Mathematical Foundations
 - Introduction to Algorithms
 - Divide and Conquer
@@ -91,8 +94,6 @@ If you have any questions or suggestions regarding the code in this repository, 
 
 
 ## RUN THE APP
-- Dependencies
-  - Rust Toolchain V- 1.96.0+
 
 **run in terminal opened in root direct of project:**
 ``` bash

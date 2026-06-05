@@ -7,7 +7,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ## 1. Mathematical Foundations
 
-### Proof Techniques
+### 1.1. Proof Techniques 
 
 - Mathematical induction
 - Proof by contradiction
@@ -19,14 +19,14 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
   - Harmonic series
   - Summation rules
 
-### Sets, Relations, and Functions
+### 1.2. Sets, Relations, and Functions 
 
 - Sets
 - Relations
 - Equivalence relations
 - Functions
 
-### Counting and Probability
+### 1.3. Counting and Probability 
 
 - Counting principles
 - Permutations
@@ -36,13 +36,13 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 - Expected value
 - Random variables
 
-### Matrices
+### 1.4. Matrices 
 
 - Matrix operations
 - Matrix multiplication
 - Matrix properties
 
-### Number Theory Basics
+### 1.5. Number Theory Basics 
 
 - Prime numbers
 - GCD and LCM
@@ -54,20 +54,20 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ## 2. Introduction to Algorithms
 
-### What Algorithms Are
+### 2.1. What Algorithms Are?
 
 - Algorithms as problem-solving procedures
 - Algorithms as technology
 - Correctness
 - Efficiency
 
-### Computational and Asymptotic Complexity
+### 2.2. Computational and Asymptotic Complexity 
 
 - Best-case analysis
 - Average-case analysis
 - Worst-case analysis
 
-### Asymptotic Notation
+### 2.3. Asymptotic Notation 
 
 - Big O notation
 - Big Theta notation
@@ -75,13 +75,13 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 - Little o notation
 - Little omega notation
 
-### Amortized Complexity
+### 2.4. Amortized Complexity 
 
 - Aggregate analysis
 - Accounting method
 - Potential method
 
-### Standard Notation and Common Functions
+### 2.5. Standard Notation and Common Functions 
 
 - Logarithmic functions
 - Polynomial functions
@@ -89,7 +89,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 - Factorials
 - Common growth rates
 
-### Complexity Classes Overview
+### 2.6. Complexity Classes Overview 
 
 - P
 - NP
@@ -98,26 +98,26 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## 3. Divide and Conquer
+## 3. Divide and Conquer 
 
 > Divide and conquer is a powerful strategy for designing efficient
 > algorithms by splitting a problem into smaller subproblems, solving them recursively, and combining the results.
 
-### Core Ideas
+### 3.1. Core Ideas 
 
 - Divide step
 - Conquer step
 - Combine step
 - Recursive algorithm structure
 
-### Classic Algorithms
+### 3.2. Classic Algorithms 
 
 - Binary search
 - Merge sort
 - Matrix multiplication
 - Strassen's algorithm for matrix multiplication
 
-### Solving Recurrences
+### 3.3. Solving Recurrences 
 
 - Substitution method
 - Recursion-tree method
@@ -132,31 +132,31 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 > Sorting algorithms are a gateway to understanding algorithm design,
 > tradeoffs, and performance analysis.
 
-### Elementary Sorting Algorithms
+### 4.1. Elementary Sorting Algorithms 
 
 - Insertion sort
 - Selection sort
 - Bubble sort
 - Comb sort
 
-### Intermediate Sorting Algorithms
+### 4.2. Intermediate Sorting Algorithms 
 
 - Shell sort
 - Heap sort
 
-### Divide-and-Conquer Sorting
+### 4.3. Divide-and-Conquer Sorting 
 
 - Merge sort
 - Quick sort
 
-### Linear-Time Sorting
+### 4.4. Linear-Time Sorting 
 
 - Counting sort
 - Radix sort
 - Bucket sort
 - Sorting in linear time
 
-### Order Statistics
+### 4.5. Order Statistics 
 
 - Selection problem
 - Quickselect
@@ -168,7 +168,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 > Data structures organize information so programs can access, update, and process it efficiently.
 
-### Linear Data Structures
+### 5.1. Linear Data Structures
 
 - Arrays
 - Dynamic arrays
@@ -180,21 +180,21 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
   - Doubly linked list
   - Circular linked list
 
-### Hash-Based Structures
+### 5.2. Hash-Based Structures
 
 - Hash tables
   - Chaining
   - Open addressing
   - Rehashing
 
-### Heaps
+### 5.3. Heaps
 
 - Binary heap
 - Min heap
 - Max heap
 - Priority queue
 
-### Trees
+### 5.4. Trees
 
 - Binary trees
 - Binary search trees
@@ -210,25 +210,25 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
   - R-trees
   - 2-4 trees
 
-### Trie-Based Structures
+### 5.5. Trie-Based Structures
 
 - Trie
 - Compressed trie
 
-### Range Query Structures
+### 5.6. Range Query Structures
 
 - Segment tree
 - Lazy propagation
 - Fenwick tree, also known as binary indexed tree
 - Sparse table
 
-### Augmented Data Structures
+### 5.7. Augmented Data Structures
 
 - Order-statistic trees
 - Interval trees
 - Augmenting existing structures safely
 
-### Disjoint Set Data Structures
+### 5.8. Disjoint Set Data Structures
 
 - Union-find
 - Path compression
@@ -241,20 +241,20 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 > Hashing is important in programming, databases, storage systems, and security.
 
-### Core Concepts
+### 6.1. Core Concepts
 
 - Hash functions
 - Hash table operations
 - Load factor
 - Collision handling
 
-### Collision Resolution
+### 6.2. Collision Resolution
 
 - Chaining
 - Open addressing
 - Deletion
 
-### Advanced Hashing
+###  6.3. Advanced Hashing
 
 - Perfect hash functions
 - Universal hashing
@@ -269,21 +269,21 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 > Greedy algorithms build a solution piece by piece by choosing the locally best option at each step. They are often fast and simple, but they require proof that local choices lead to a globally optimal solution.
 
-### Core Ideas
+### 7.1. Core Ideas
 
 - Greedy choice property
 - Optimal substructure
 - Exchange arguments
 - Matroids
 
-### Classic Problems
+### 7.2. Classic Problems
 
 - Activity selection problem
 - Fractional knapsack
 - Huffman coding
 - Scheduling problems
 
-### Greedy Graph Algorithms
+### 7.3. Greedy Graph Algorithms
 
 - Kruskal's algorithm
 - Prim's algorithm
@@ -293,7 +293,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ## 8. Dynamic Programming
 
-### Core Ideas
+### 8.1. Core Ideas
 
 - Optimal substructure
 - Overlapping subproblems
@@ -302,7 +302,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 - State definition
 - Transition recurrence
 
-### Classical Problems
+### 8.2. Classical Problems
 
 - Fibonacci
 - Rod cutting
@@ -313,7 +313,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 - Longest increasing subsequence
 - Edit distance
 
-### Advanced Dynamic Programming
+### 8.3. Advanced Dynamic Programming
 
 - Bitmask DP
 - Tree DP
@@ -323,14 +323,14 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ## 9. Backtracking and Search
 
-### Core Ideas
+### 9.1. Core Ideas
 
 - State space search
 - Constraint checking
 - Pruning
 - Branch and bound
 
-### Classic Problems
+### 9.2. Classic Problems
 
 - Subset generation
 - Permutations
@@ -344,14 +344,14 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 > Probabilistic analysis studies algorithm behavior when randomness is involved, either in the input or inside the algorithm itself.
 
-### Foundations
+### 10.1. Foundations
 
 - The hiring problem
 - Indicator random variables
 - Expected running time
 - Probabilistic analysis
 
-### Randomized Algorithms
+### 10.2. Randomized Algorithms
 
 - Randomized algorithms
 - Randomized quicksort
@@ -363,7 +363,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 > Graph algorithms solve problems involving relationships, networks, dependencies, and paths.
 
-### Graph Foundations
+### 11.1. Graph Foundations
 
 - Graph terminology
 - Directed and undirected graphs
@@ -373,20 +373,20 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
   - Adjacency list
   - Edge list
 
-### Elementary Graph Algorithms
+### 11.2. Elementary Graph Algorithms
 
 - Breadth-first search
 - Depth-first search
 - Topological sort
 - Strongly connected components
 
-### Minimum Spanning Trees
+### 11.3. Minimum Spanning Trees
 
 - Growing a minimum spanning tree
 - Kruskal's algorithm
 - Prim's algorithm
 
-### Single-Source Shortest Paths
+### 11.3. Single-Source Shortest Paths
 
 - Bellman-Ford algorithm
 - Shortest paths in DAGs
@@ -396,13 +396,13 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 - Difference constraints and shortest paths
 - Proofs of shortest-path properties
 
-### All-Pairs Shortest Paths
+### 11.4. All-Pairs Shortest Paths
 
 - Shortest paths and matrix multiplication
 - Floyd-Warshall algorithm
 - Johnson's algorithm for sparse graphs
 
-### Connectivity Algorithms
+### 11.5. Connectivity Algorithms
 
 - Bridges
 - Articulation points
@@ -410,7 +410,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 - Kosaraju's algorithm
 - Lowest common ancestor
 
-### Maximum Flow
+### 11.6. Maximum Flow
 
 - Flow networks
 - Ford-Fulkerson method
@@ -418,13 +418,13 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 - Dinic's algorithm
 - Maximum bipartite matching
 
-### Matchings in Bipartite Graphs
+### 11.7. Matchings in Bipartite Graphs
 
 - Maximum bipartite matching
 - Stable marriage problem
 - Hungarian algorithm
 
-### NP-Complete Graph Problems
+### 11.8. NP-Complete Graph Problems
 
 - Clique problem
 - 3-colorability problem
@@ -436,7 +436,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ## 12. String Algorithms
 
-### String Matching Basics
+### 12.1. string Matching Basics
 
 - Naive string matching
 - Rabin-Karp
@@ -444,11 +444,11 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 - Z algorithm
 - Boyer-Moore
 
-### Multiple Pattern Matching
+### 12.2. Multiple Pattern Matching
 
 - Aho-Corasick
 
-### String Preprocessing Structures
+### 12.3. String Preprocessing Structures
 
 - Prefix function
 - Suffix arrays
@@ -458,19 +458,19 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ## 13. Number-Theoretic Algorithms
 
-### Core Algorithms
+### 13.1. Core Algorithms
 
 - Euclidean algorithm
 - Extended Euclidean algorithm
 - Modular arithmetic
 - Fast modular exponentiation
 
-### Prime Numbers
+### 13.2. Prime Numbers
 
 - Prime testing
 - Sieve algorithms
 
-### Advanced Topics
+### 13.3. Advanced Topics
 
 - Chinese remainder theorem
 - Applications in cryptography
@@ -479,26 +479,26 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ## 14. NP-Completeness
 
-### Complexity Classes
+### 14.1. Complexity Classes
 
 - P
 - NP
 - NP-hard
 - NP-complete
 
-### Reductions
+### 14.2. Reductions
 
 - Polynomial reductions
 - SAT
 - 3-SAT
 
-### Classic NP-Complete Problems
+### 14.3. Classic NP-Complete Problems
 
 - Clique
 - Vertex cover
 - Hamiltonian cycle
 
-### Intractability
+### 14.4. Intractability
 
 - Approximation
 - Approximation and intractability
@@ -507,19 +507,19 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ## 15. Selected Advanced Topics
 
-### Algorithmic Techniques
+### 15.1. Algorithmic Techniques
 
 - Parallel algorithms
 - Online algorithms
 - Approximation algorithms
 
-### Mathematical and Numerical Algorithms
+### 15.2. Mathematical and Numerical Algorithms
 
 - Matrix operations
 - Linear programming
 - Polynomials and the FFT
 
-### Machine Learning
+### 15.3. Machine Learning
 
 - Machine-learning algorithms
 
@@ -529,19 +529,19 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 > Hardware-aware algorithms consider memory, CPU behavior, and measurement tools when optimizing performance.
 
-### Memory and Cache
+### 16.1. Memory and Cache
 
 - Memory hierarchy
 - Cache-aware algorithms
 - Cache-friendly data structures
 - Locality of reference
 
-### CPU and Parallelism
+### 16.2 CPU and Parallelism
 
 - SIMD concepts
 - Parallel execution
 
-### Measurement and Optimization
+### 16.3 Measurement and Optimization
 
 - Profiling
 - Benchmarking
