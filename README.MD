@@ -93,11 +93,19 @@ If you have any questions or suggestions regarding the code in this repository, 
 - Hardware-Aware Algorithms
 
 
-## RUN THE APP
+## Run the Application
 
-**run in terminal opened in root direct of project:**
-``` bash
-  cargo build
-  cargo run -p app
+Run the following commands from the project's root directory.
+
+### Linux / macOS
+
+```bash
+chmod +x run.sh
+./run.sh
 ```
 
+### Windows (CMD)
+
+```cmd
+.\run.bat
+```
