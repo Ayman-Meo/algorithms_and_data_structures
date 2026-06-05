@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/app/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/data_structures/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/graph/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/hashing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/sort/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/string_matching/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utilities/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

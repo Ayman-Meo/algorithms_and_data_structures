@@ -1,10 +1,11 @@
 [workspace]
 members = [
     "app",
+    "utilities",
     "lib/data_structures",
     "lib/graph",
     "lib/hashing",
     "lib/sort",
-    "lib/string_matching", "utilities",
+    "lib/string_matching",
 ]
 resolver = "2"
