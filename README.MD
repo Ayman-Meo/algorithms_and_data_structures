@@ -15,7 +15,9 @@ This repository contains a collection of Rust implementations of various algorit
 > unmanaged pointers. Always focus on adapting the core mathematical concept rather than doing a line-by-line translation.
 
 ## Tools
-- Rust Stable Toolchain V- 1.96.0+
+- [Rust Stable Toolchain V- 1.96.0+](https://rust-lang.org/learn/get-started/)
+- Visual studio code
+- [Mermaid extension for VSCode](https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart)
 
 ## Resources
 - [The Rust Standard Library Documentation](https://doc.rust-lang.org/std/)
