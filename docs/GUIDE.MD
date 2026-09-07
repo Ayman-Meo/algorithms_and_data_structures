@@ -1,13 +1,13 @@
 # Algorithms and Data Structures Roadmap
 
-This guide is organized as a learning path. Start with the foundations, 
+This guide is organized as a learning path. Start with the foundations,
 then move into core algorithmic techniques, data structures, graph algorithms, and advanced topics.
 
 ---
 
 ## [1. Mathematical Foundations](./Mathematical%20Foundations/introduction.md)
 
-### 1.1. Proof Techniques 
+### 1.1. Proof Techniques
 
 - Mathematical induction
 - Proof by contradiction
@@ -19,14 +19,14 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
   - Harmonic series
   - Summation rules
 
-### 1.2. Sets, Relations, and Functions 
+### 1.2. Sets, Relations, and Functions
 
 - Sets
 - Relations
 - Equivalence relations
 - Functions
 
-### 1.3. Counting and Probability 
+### 1.3. Counting and Probability
 
 - Counting principles
 - Permutations
@@ -36,13 +36,13 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 - Expected value
 - Random variables
 
-### 1.4. Matrices 
+### 1.4. Matrices
 
 - Matrix operations
 - Matrix multiplication
 - Matrix properties
 
-### 1.5. Number Theory Basics 
+### 1.5. Number Theory Basics
 
 - Prime numbers
 - GCD and LCM
@@ -61,13 +61,13 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 - Correctness
 - Efficiency
 
-### 2.2. Computational and Asymptotic Complexity 
+### 2.2. Computational and Asymptotic Complexity
 
 - Best-case analysis
 - Average-case analysis
 - Worst-case analysis
 
-### 2.3. Asymptotic Notation 
+### 2.3. Asymptotic Notation
 
 - Big O notation
 - Big Theta notation
@@ -75,13 +75,13 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 - Little o notation
 - Little omega notation
 
-### 2.4. Amortized Complexity 
+### 2.4. Amortized Complexity
 
 - Aggregate analysis
 - Accounting method
 - Potential method
 
-### 2.5. Standard Notation and Common Functions 
+### 2.5. Standard Notation and Common Functions
 
 - Logarithmic functions
 - Polynomial functions
@@ -89,7 +89,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 - Factorials
 - Common growth rates
 
-### 2.6. Complexity Classes Overview 
+### 2.6. Complexity Classes Overview
 
 - P
 - NP
@@ -98,26 +98,26 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 
 ---
 
-## [3. Divide and Conquer](./Divide%20and%20Conquer/introduction.md) 
+## [3. Divide and Conquer](./Divide%20and%20Conquer/introduction.md)
 
 > Divide and conquer is a powerful strategy for designing efficient
 > algorithms by splitting a problem into smaller subproblems, solving them recursively, and combining the results.
 
-### 3.1. Core Ideas 
+### 3.1. Core Ideas
 
 - Divide step
 - Conquer step
 - Combine step
 - Recursive algorithm structure
 
-### 3.2. Classic Algorithms 
+### 3.2. Classic Algorithms
 
 - Binary search
 - Merge sort
 - Matrix multiplication
 - Strassen's algorithm for matrix multiplication
 
-### 3.3. Solving Recurrences 
+### 3.3. Solving Recurrences
 
 - Substitution method
 - Recursion-tree method
@@ -132,31 +132,31 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 > Sorting algorithms are a gateway to understanding algorithm design,
 > tradeoffs, and performance analysis.
 
-### 4.1. Elementary Sorting Algorithms 
+### 4.1. Elementary Sorting Algorithms
 
 - Insertion sort
 - Selection sort
 - Bubble sort
 - Comb sort
 
-### 4.2. Intermediate Sorting Algorithms 
+### 4.2. Intermediate Sorting Algorithms
 
 - Shell sort
 - Heap sort
 
-### 4.3. Divide-and-Conquer Sorting 
+### 4.3. Divide-and-Conquer Sorting
 
 - Merge sort
 - Quick sort
 
-### 4.4. Linear-Time Sorting 
+### 4.4. Linear-Time Sorting
 
 - Counting sort
 - Radix sort
 - Bucket sort
 - Sorting in linear time
 
-### 4.5. Order Statistics 
+### 4.5. Order Statistics
 
 - Selection problem
 - Quickselect
@@ -254,7 +254,7 @@ then move into core algorithmic techniques, data structures, graph algorithms, a
 - Open addressing
 - Deletion
 
-###  6.3. Advanced Hashing
+### 6.3. Advanced Hashing
 
 - Perfect hash functions
 - Universal hashing

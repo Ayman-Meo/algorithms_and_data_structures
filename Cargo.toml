@@ -1,6 +1,5 @@
 [workspace]
 members = [
-    "app",
     "utilities",
     "lib/backtracking",
     "lib/data_structures",

@@ -16,8 +16,6 @@ This repository contains a collection of Rust implementations of various algorit
 
 ## Tools
 - [Rust Stable Toolchain V- 1.96.0+](https://rust-lang.org/learn/get-started/)
-- Visual studio code
-- [Mermaid extension for VSCode](https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart)
 
 ## Resources
 - [The Rust Standard Library Documentation](https://doc.rust-lang.org/std/)
@@ -46,9 +44,6 @@ If you have any questions or suggestions regarding the code in this repository, 
 .
 │   Cargo.toml         # Root workspace configuration
 │   LICENSE            # The license of the program
-│   
-├───app/               # Main CLI application binary
-│   └───Cargo.toml
 │           
 ├───docs/              # Markdown files for explanations and notices
 │   └───GUIDE.MD
@@ -80,20 +75,16 @@ If you have any questions or suggestions regarding the code in this repository, 
 - [Selected Advanced Topics](./docs/GUIDE.MD#15-selected-advanced-topics)
 - [Hardware-Aware Algorithms](./docs/GUIDE.MD#16-hardware-aware-algorithms)
 
+## TEST ALL LIBIRARIES
 
-## Run the Application
-
-Run the following commands from the project's root directory.
-
-### Linux / macOS
-
-```bash
-chmod +x run.sh
-./run.sh
+For LINUX/UNIX:
+```text
+   RUST_LOG=info cargo test
 ```
 
-### Windows (CMD)
+For Windows:
+```bash
+  set RUST_LOG=info
 
-```cmd
-.\run.bat
+  cargo test
 ```
