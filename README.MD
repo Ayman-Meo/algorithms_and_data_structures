@@ -78,13 +78,17 @@ If you have any questions or suggestions regarding the code in this repository, 
 ## TEST ALL LIBIRARIES
 
 For LINUX/UNIX:
-```text
+```bash
+
    RUST_LOG=info cargo test
+
 ```
 
 For Windows:
 ```bash
+
   set RUST_LOG=info
 
   cargo test
+
 ```
